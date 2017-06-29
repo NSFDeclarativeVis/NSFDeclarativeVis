@@ -17,6 +17,6 @@ The work of the grant starts with exploring the fundamental modeling and languag
 
 ## Principle Investigators
 
-* Joseph Hellerstein, UC Berkeley
-* Jeffrey Heer, U. of Washington
-* Eugene Wu, Columbia University
+* Joseph Hellerstein, UC Berkeley [NSF 1564351](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564351&HistoricalAwards=false)
+* Jeffrey Heer, U. of Washington [NSF 1562182](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1562182&HistoricalAwards=false)
+* Eugene Wu, Columbia University [NSF 1564049](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564049&HistoricalAwards=false)
