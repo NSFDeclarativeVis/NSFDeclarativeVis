@@ -1,0 +1,43 @@
+# The following are required
+#
+# - authors: eugene wu, super man
+#   conf: SIGMOD 2016
+#   tags:
+#   - vis
+#   title: Title of the paper
+#   url: url to the paper
+#
+# The following are optional
+#
+#   slides: URL to slides
+#   code: URL to code/github
+#   comments: any comments
+#
+#
+# Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag 
+#
+- authors: Jane Hoffswell and Arvind Satyanarayan and Jeffrey Heer
+  title: Visual Debugging Techniques for Reactive Data Visualization
+  conf: EuroVis 16
+- authors: Arvind Satyanarayan, Dominik Moritz, Kanit Wongsuphasawat, Jeffrey Heer
+  title: Vega-Lite&#58; A Grammar of Interactive Graphics
+  conf: InfoVis 2017 
+  comments: Best paper!
+- authors: Meraj Ahmed Khan, Larry Xu, Arnab Nandi, Joseph M. Hellerstein
+  title: Data Tweening&#58; Incremental Visualization of Data Transforms,
+  conf: VLDB 2017
+- authors: Haoci Zhang, Thibault Sellam, Eugene Wu
+  conf: HILDA 2017
+  selected: true
+  title: Precision Interfaces
+  url: https://arxiv.org/abs/1704.03022
+- authors: Eugene Wu, Fotis Psallidas, Zhengjie Miao, Haoci Zhang,Laura Rettig, Yifan
+    Wu, Thibault Sellam
+  conf: CIDR 2017
+  selected: true
+  title: Combining Design and Performance in a Data Visualization Management System
+  url: https://www.dropbox.com/s/0rdjsv7m7wbhmlk/cidr17-camera.pdf?dl=0
+- authors: Yifan Wu, Joe Hellerstein, Eugene Wu
+  conf: Hilda 2016
+  title: A DeVIL-ish Approach to Inconsistency in Interactive Visualizations
+  url: http://sirrice.github.io/files/papers/devil-hilda16.pdf
