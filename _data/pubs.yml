@@ -16,6 +16,38 @@
 #
 # Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag 
 #
+
+- authors: Yifan Wu, Larry Xu, Remco Chang, Joseph M. Hellerstein, Eugene Wu
+  title: Making Sense of Asynchrony in Interactive Data Visualizations
+  conf: Technical Report
+- authors: Gabriel Ryan, Abigail Mosca, Eugene Wu, Remco Chang
+  title: 'Approximate Entropy as a Measure of Line Chart Complexity'
+  conf: InfoVIS Poster 2017
+- authors: Fotis Psallidas, Eugene Wu
+  title: 'Provenance in Interactive Visualizations'
+  conf: HILDA 2018
+  url: https://www.dropbox.com/s/fkp5hk1gp4lrg9h/smoke-hilda18.pdf?dl=0
+- authors: HaoCi Zhang, Viraj Rai, Thibault Sellam, Eugene Wu
+  title: 'Precision Interfaces for Different Modalities'
+  conf: SIGMOD (demo) 2018
+- authors: Fotis Psallidas, Eugene Wu
+  title: 'Demonstration of Smoke: A Deep Breath of Data-Intensive Lineage Applications'
+  conf: SIGMOD (demo) 2018
+- authors: Fotis Psallidas, Eugene Wu
+  title: 'Smoke: Fine-grained Lineage at Interactive Speeds'
+  conf: VLDB 2018 Preprint
+- authors: Marianne Procopio, Carlos Scheidegger, Eugene Wu, Remco Chang
+  title: 'Load-n-Go: Fast Approximate Join Visualizations That Improve Over Time'
+  conf: DSIA 2017
+- authors: Dominik Moritz, Chenglong Wang, Greg L. Nelson, Halden Lin, Adam M. Smith, Bill Howe, Jeffrey Heer
+  title: Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco. 
+  conf: InfoVis 2019 
+- authors: Jane Hoffswell, Alan Borning, Jeffrey Heer 
+  conf: EuroVis 2018
+  title: SetCoLa; High­Level Constraints for Graph Layout. Computer Graphics
+- authors: Jane Hoffswell, Arvind Satyanarayan, Jeffrey Heer
+  title: Augmenting Code with In Situ Visualizations to Aid Program Understanding
+  conf: CHI 2018. 
 - authors: Jane Hoffswell and Arvind Satyanarayan and Jeffrey Heer
   title: Visual Debugging Techniques for Reactive Data Visualization
   conf: EuroVis 16
