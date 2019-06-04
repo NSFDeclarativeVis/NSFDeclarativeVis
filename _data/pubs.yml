@@ -17,6 +17,29 @@
 # Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag 
 #
 
+- title: 'Towards Democratizing Relational Data Visualization'
+  url: https://www.dropbox.com/s/rrl5wavo6xuw7nc/tutorial-vis-sigmod19.pdf?dl=0
+  authors: Nan Tang, Eugene Wu, Guoliang Li
+  selected: true
+  conf: SIGMOD 2019 Tutorial
+  tags:
+    - vis
+    - db
+- title: 'Precision Interfaces'
+  authors: Qianrui Zhang, Haoci Zhang, Viraj Rai, Thibault Sellam, Eugene Wu
+  conf: SIGMOD 2019
+  url: https://arxiv.org/abs/1904.02344
+  selected: true
+  tags:
+    - vis
+    - db
+- authors: Gabriel Ryan, Abigail Mosca, Remco Chang, Eugene Wu
+  title: 'At a Glance: Approximate Entropy as a Measure of Line Chart Visualization Complexity'
+  conf: InfoVIS 2018
+  selected: true
+  url: https://www.dropbox.com/s/9jipqhq1yqgn5yt/glance-infovis18-camera.pdf?dl=0
+  tags:
+    - vis
 - authors: Yifan Wu, Larry Xu, Remco Chang, Joseph M. Hellerstein, Eugene Wu
   title: Making Sense of Asynchrony in Interactive Data Visualizations
   conf: Technical Report
