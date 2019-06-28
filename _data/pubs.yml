@@ -14,9 +14,17 @@
 #   comments: any comments
 #
 #
-# Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag 
+# Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
 #
 
+- title: 'Falcon: Balancing Interactive Latency and Resolution Sensitivity for Scalable Linked Visualizations'
+  authors: Dominik Moritz, Bill Howe, Jeffrey Heer
+  conf: CHI 2019
+  url: http://idl.cs.washington.edu/papers/falcon
+- title: 'Capture & Analysis of Active Reading Behaviors for Interactive Articles on the Web'
+  authors: Matt Conlen, Alex Kale, Jeffrey Heer
+  conf: EuroVis 2019
+  url: http://idl.cs.washington.edu/papers/idyll-analytics
 - title: 'Towards Democratizing Relational Data Visualization'
   url: https://www.dropbox.com/s/rrl5wavo6xuw7nc/tutorial-vis-sigmod19.pdf?dl=0
   authors: Nan Tang, Eugene Wu, Guoliang Li
@@ -63,21 +71,27 @@
   title: 'Load-n-Go: Fast Approximate Join Visualizations That Improve Over Time'
   conf: DSIA 2017
 - authors: Dominik Moritz, Chenglong Wang, Greg L. Nelson, Halden Lin, Adam M. Smith, Bill Howe, Jeffrey Heer
-  title: Formalizing Visualization Design Knowledge as Constraints; Actionable and Extensible Models in Draco 
-  conf: InfoVis 2019 
-- authors: Jane Hoffswell, Alan Borning, Jeffrey Heer 
+  title: Formalizing Visualization Design Knowledge as Constraints; Actionable and Extensible Models in Draco
+  conf: TVCG 2019
+  url:  http://idl.cs.washington.edu/papers/draco
+  comments: InfoVis 2018 Best Paper!
+- authors: Jane Hoffswell, Alan Borning, Jeffrey Heer
   conf: EuroVis 2018
-  title: SetCoLa; High­Level Constraints for Graph Layout. Computer Graphics
+  title: 'SetCoLa: High­-Level Constraints for Graph Layout'
+  url: http://idl.cs.washington.edu/papers/setcola
 - authors: Jane Hoffswell, Arvind Satyanarayan, Jeffrey Heer
   title: Augmenting Code with In Situ Visualizations to Aid Program Understanding
-  conf: CHI 2018. 
+  conf: CHI 2018
+  url: http://idl.cs.washington.edu/papers/insitu-code-vis
 - authors: Jane Hoffswell and Arvind Satyanarayan and Jeffrey Heer
   title: Visual Debugging Techniques for Reactive Data Visualization
   conf: EuroVis 16
+  url: http://idl.cs.washington.edu/papers/vega-debugging
 - authors: Arvind Satyanarayan, Dominik Moritz, Kanit Wongsuphasawat, Jeffrey Heer
-  title: Vega-Lite&#58; A Grammar of Interactive Graphics
-  conf: InfoVis 2017 
-  comments: Best paper!
+  title: 'Vega-Lite: A Grammar of Interactive Graphics'
+  conf: TVCG 2017
+  comments: InfoVis 2016 Best Paper!
+  url: http://idl.cs.washington.edu/papers/vega-lite
 - authors: Meraj Ahmed Khan, Larry Xu, Arnab Nandi, Joseph M. Hellerstein
   title: Data Tweening&#58; Incremental Visualization of Data Transforms,
   conf: VLDB 2017

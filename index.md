@@ -15,7 +15,7 @@ The research funded by this grant explores a declarative approach to specifying 
 The work of the grant starts with exploring the fundamental modeling and language design issues in this domain, to develop techniques for composing and analyzing interaction code, and to deliver a prototype language, runtime, and analysis suite that demonstrates the benefits of our ideas. Results of the work will be embodied in a language runtime for Logical Interaction, which will be freely available as open source. The project will evaluate the effectiveness of Logical Interaction in terms of its interactivity and scale, the range of interactive visualizations it naturally supports, and the ability for users of varying skills to learn and use it. The researchers will also experiment with Logical Interaction in university courses on Big Data and Data Science, and share the curricula publicly along with the software. Research results will be published in the scientific literature.
 
 
-## Principle Investigators
+## Principal Investigators
 
 * Joseph Hellerstein, UC Berkeley [NSF 1564351](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564351&HistoricalAwards=false)
 * Jeffrey Heer, U. of Washington [NSF 1562182](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1562182&HistoricalAwards=false)
