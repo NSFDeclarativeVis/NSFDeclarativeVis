@@ -25,4 +25,5 @@ The work of the grant starts with exploring the fundamental modeling and languag
 
 * [DIEL project information](https://logical-interactions.github.io/diel/)
 * [DIEL Gallery](https://logical-interactions.github.io/diel-gallery/)
+* [Interactive Notebooks for Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
 * [Relational Visualization Tutorial](https://www.dropbox.com/s/rrl5wavo6xuw7nc/tutorial-vis-sigmod19.pdf?dl=0)
