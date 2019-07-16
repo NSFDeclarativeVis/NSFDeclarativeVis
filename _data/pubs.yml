@@ -17,6 +17,12 @@
 # Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
 #
 
+- title: 'Programming with Timespans in Interactive Visualizations'
+  authors: Yifan Wu, Remco Chang, Eugene Wu, Joe Hellerstein
+  conf: ArXiv 2019
+- title: 'DIEL: Transparent Scaling for Interactive Visualization' 
+  authors: Yifan Wu, Remco Chang, Eugene Wu, Joe Hellerstein
+  conf: ArXiv 2019
 - title: 'Falcon: Balancing Interactive Latency and Resolution Sensitivity for Scalable Linked Visualizations'
   authors: Dominik Moritz, Bill Howe, Jeffrey Heer
   conf: CHI 2019
@@ -77,7 +83,7 @@
   comments: InfoVis 2018 Best Paper!
 - authors: Jane Hoffswell, Alan Borning, Jeffrey Heer
   conf: EuroVis 2018
-  title: 'SetCoLa: High­-Level Constraints for Graph Layout'
+  title: 'SetCoLa: High-Level Constraints for Graph Layout'
   url: http://idl.cs.washington.edu/papers/setcola
 - authors: Jane Hoffswell, Arvind Satyanarayan, Jeffrey Heer
   title: Augmenting Code with In Situ Visualizations to Aid Program Understanding
