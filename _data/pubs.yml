@@ -17,6 +17,18 @@
 # Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
 #
 
+- title: 'Continuous Prefetch for Interactive Data Applications'
+  authors: Haneen Mohammed, Ziyun Wei, Ravi Netravali, Eugene Wu
+  conf: VLDB 2020
+  url: https://arxiv.org/pdf/2007.07858.pdf
+- title: 'Physical Visualization Design'
+  authors: Lana Ramjit, Zhaoning Kong, Ravi Netravali, Eugene Wu
+  conf: SIGMOD (demo) 2020
+  url: https://www.dropbox.com/s/i6dngaqr1xyo9fg/pvd-sigmod20demo-cr.pdf?dl=0
+- title: 'Monte Carlo Tree Search for Generating Interactive Data Analysis Interfaces'
+  authors: Yiru Chen, Eugene Wu
+  conf: Intelligent Process Automation (IPA) 2020
+  url: https://arxiv.org/abs/2001.01902
 - title: 'Programming with Timespans in Interactive Visualizations'
   authors: Yifan Wu, Remco Chang, Eugene Wu, Joe Hellerstein
   conf: ArXiv 2019
