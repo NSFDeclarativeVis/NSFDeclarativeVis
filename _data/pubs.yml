@@ -16,7 +16,23 @@
 #
 # Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
 #
-
+- title: 'Facilitating Exploration with Interaction Snapshots under High Latency'
+  authors: Yifan Wu, Remco Chang, Joe Hellerstein, Eugene Wu
+  conf: InfoVIS 2020
+  short: true
+  url: https://arxiv.org/pdf/1806.01499.pdf
+- title: 'Impact of Cognitive Biases on Progressive Visualization'
+  authors: Marianne Procopio, Ab Mosca, Carlos Scheidegger, Eugene Wu, Remco Chang
+  conf: TVCG 2021
+  url: https://www.dropbox.com/s/kzjotdoq9zpmuxf/marianne-bias-tvcg20-cr.pdf?dl=0
+- title: 'DIEL: Interactive Visualization Beyond the Here and Now'
+  authors: Yifan Wu, Remco Chang, Joseph Hellerstein, Arvind Satyanarayan, Eugene Wu
+  conf: VIS 2021 
+  url: https://arxiv.org/pdf/1907.00062.pdf
+- title: 'Dynamic Breakpoints for Y-axis Scales'
+  authors: Jacob Fisher, Remco Chang, Eugene Wu
+  conf: InfoVIS  2021 
+  url: https://www.dropbox.com/s/3oehfixhsg1ftk8/breakpoints-vis21short-camera-submitted.pdf?dl=0
 - title: 'Continuous Prefetch for Interactive Data Applications'
   authors: Haneen Mohammed, Ziyun Wei, Ravi Netravali, Eugene Wu
   conf: VLDB 2020
